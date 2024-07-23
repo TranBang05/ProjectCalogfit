@@ -1,0 +1,1257 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calofit_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Calofit_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\header-colors.css",
+      "PackagePath": "staticwebassets\\assets\\css\\header-colors.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\semi-dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\semi-dark.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\css\\transformations.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\authentication\\au-reset-password-cover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\au-reset-password-cover.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\authentication\\au-sign-in-basic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\au-sign-in-basic.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\authentication\\au-sign-up-basic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\au-sign-up-basic.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\authentication\\register-cover-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\register-cover-img.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\avatars\\411645342_1562023544548756_283635041313082730_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\411645342_1562023544548756_283635041313082730_n.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\01.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\02.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\03.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\04.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\05.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\06.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\07.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\08.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\09.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\10.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\11.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\12.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\13.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\14.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\15.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\16.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\17.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\18.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\19.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\20.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\21.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\pexels-pixabay-221247.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\pexels-pixabay-221247.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\cards\\profile-cover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\profile-cover.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\01.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\02.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\03.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\04.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\05.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\06.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\07.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\08.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\carousel\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\09.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\404-error.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\404-error.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\404.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\404.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\505-error.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\505-error.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\auth-img-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\auth-img-7.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\auth-img-register2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\auth-img-register2.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\auth-img-register3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\auth-img-register3.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\forgot-password-frent-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\forgot-password-frent-img.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\error\\login-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\login-img.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\UAE.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\UAE.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\american-express.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\american-express.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\apple-black-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\apple-black-logo.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\australia.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\australia.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\brazil.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\brazil.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\china.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\china.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\facebook.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\google.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\india.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\india.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\mastercard.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\russia.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\russia.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\usa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\usa.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\icons\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\visa.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\logo-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon-2.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\logo-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon-3.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\product-gallery\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-gallery\\01.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\product-gallery\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-gallery\\02.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\product-gallery\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-gallery\\03.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\product-gallery\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-gallery\\04.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\product-gallery\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-gallery\\05.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\01.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\02.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\03.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\04.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\05.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\06--.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\06--.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\06.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\07.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\08.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\09.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\10.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\11.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\12.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\13.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\14.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\15.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\16.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\17.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\18.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\19.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\20.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\21.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\22.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\products\\23.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\23.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\01.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\02.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\03.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\04.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\05.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\06.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\images\\similar-products\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\similar-products\\07.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\component-popovers-tooltips.js",
+      "PackagePath": "staticwebassets\\assets\\js\\component-popovers-tooltips.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\form-date-time-pickes.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-date-time-pickes.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\form-file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-file-upload.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\form-select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-select2.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\price-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\price-slider.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\product-details.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-details.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\table-datatable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\table-datatable.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\OwlCarousel\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\OwlCarousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\OwlCarousel\\js\\owl.carousel2.thumbs.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\js\\owl.carousel2.thumbs.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\apexcharts-bundle\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\css\\apexcharts.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\chartjs\\custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\custom-script.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.date.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.date.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.time.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.time.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\js\\legacy.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\legacy.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.date.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.date.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.time.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.time.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\easyPieChart\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\easyPieChart\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\jquery-knob\\excanvas.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-knob\\excanvas.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\jquery-knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-knob\\jquery.knob.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\metismenu\\css\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\css\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\metismenu\\js\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\js\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\nouislider\\nouislider.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\nouislider\\nouislider.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\peity\\jquery.peity.init.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.init.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Kì 8\\PRN231\\CaloFit_Project\\Calofit_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Calofit_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Calofit_MVC.props",
+      "PackagePath": "build\\Calofit_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Calofit_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Calofit_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Calofit_MVC.props",
+      "PackagePath": "buildTransitive\\Calofit_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

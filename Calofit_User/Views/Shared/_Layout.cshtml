@@ -1,0 +1,505 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CalofitMVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CalofitMVC.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="home-wrapper home-1">
+            <!-- Main Header Area Start -->
+            <div class="main-header">
+                <div class="row">
+                    <div class="container container-default custom-area">
+                        <div class="col-lg-12 col-custom">
+                            <div class="row align-items-center">
+                                <div class="col-lg-2 col-xl-2 col-sm-6 col-6 col-custom">
+                                    <div class="header-logo d-flex align-items-center">
+                                        <a href="index.html">
+                                            <img class="img-full" src="~/assets/images/logo1.png" alt="Header Logo" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8 col-xl-7 position-static d-none d-lg-block col-custom">
+                                    <nav class="main-nav d-flex justify-content-center">
+                                        <ul class="nav">
+                                            <li>
+                                                <a class="active" href="/Home/Home">
+                                                    <span class="menu-text">Trang chủ</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a>
+                                                    <span class="menu-text">Các sản phẩm</span>
+                                                    <i class="fa fa-angle-down"></i>
+                                                </a>
+                                                <ul class="dropdown-submenu dropdown-hover">
+                                                    <li>
+                                                        <a href="/Shop">Cửa hàng nguyên liệu</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="~/Home/MealPlan">Lập kế hoạch ăn uống</a>
+                                                    </li>
+
+                                                    @*       <li>
+                                                    <a href="nutrition.html">Phân tích dinh dưỡng</a>
+                                                    </li> *@
+                                                    <li>
+                                                        <a href="/Home/Recipe">Công thức nấu ăn</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="/Blog/Blog">
+                                                    <span class="menu-text"> Blog</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/Contact/Contact">
+                                                    <span class="menu-text">Liên hệ</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/Partners/Partners">
+                                                    <span class="menu-text">Đối tác</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/Price/Price">
+                                                    <span class="menu-text">Giá cả</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-lg-2 col-xl-3 col-sm-6 col-6 col-custom">
+                                    <div class="header-right-area main-nav">
+                                        <ul class="nav">
+                                            <li class="login-register-wrap d-none d-xl-flex">
+                                                <span><a href="/MyAccount/MyAccount">Tài Khoản</a></span>
+
+                                            </li>
+                                            <li class="minicart-wrap">
+                                                <a href="#" class="minicart-btn toolbar-btn">
+                                                    <i class="ion-bag"></i>
+                                                    <span class="cart-item_count">3</span>
+                                                </a>
+                                                <div class="cart-item-wrapper dropdown-sidemenu dropdown-hover-2">
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/cai-bo-xoi.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html">Cải bó xôi</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>2×</span>
+                                                                    <span class="cart-price">60,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/viet-quat.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html" title="Blueberry">Việt quất</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>1×</span>
+                                                                    <span class="cart-price">355,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/hanh-nhan.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html">Hạnh nhân</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>1×</span>
+                                                                    <span class="cart-price">350,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cart-links d-flex justify-content-center">
+                                                        <a class="obrien-button white-btn" href="cart.html">Giỏ hàng</a>
+                                                        <a class="obrien-button white-btn" href="checkout.html">Thanh toán</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="mobile-menu-btn d-lg-none">
+                                                <a class="off-canvas-btn" href="#">
+                                                    <i class="fa fa-bars"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main Header Area End -->
+            <!-- Sticky Header Start Here-->
+            <div class="main-header header-sticky">
+                <div class="container container-default custom-area">
+                    <div class="row">
+                        <div class="col-lg-12 col-custom">
+                            <div class="row align-items-center">
+                                <div class="col-lg-2 col-xl-2 col-sm-6 col-6 col-custom">
+                                    <div class="header-logo">
+                                        <a href="index.html">
+                                            <img class="img-full" src="~/assets/images/logo1.png" alt="Header Logo" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8 col-xl-7 position-static d-none d-lg-block col-custom">
+                                    <nav class="main-nav d-flex justify-content-center">
+                                        <ul class="nav">
+                                            <li>
+                                                <a class="active" href="index.html">
+                                                    <span class="menu-text">Trang chủ</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a>
+                                                    <span class="menu-text">Các sản phẩm</span>
+                                                    <i class="fa fa-angle-down"></i>
+                                                </a>
+                                                <ul class="dropdown-submenu dropdown-hover">
+                                                    <li>
+                                                        <a href="shop.html">Cửa hàng nguyên liệu</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="meal-planner.html">Lập kế hoạch ăn uống</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="nutrition.html">Phân tích dinh dưỡng</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="test.html">Công thức nấu ăn</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="blog-details-fullwidth.html">
+                                                    <span class="menu-text"> Blog</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="contact-us.html">
+                                                    <span class="menu-text">Liên hệ</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="partners.html">
+                                                    <span class="menu-text">Đối tác</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="pricing.html">
+                                                    <span class="menu-text">Giá cả</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-lg-2 col-xl-3 col-sm-6 col-6 col-custom">
+                                    <div class="header-right-area main-nav">
+                                        <ul class="nav">
+                                            <li class="login-register-wrap d-none d-xl-flex">
+                                                <span><a href="/MyAccount/MyAccount">MyAccount</a></span>
+
+                                            </li>
+                                            <li class="minicart-wrap">
+                                                <a href="#" class="minicart-btn toolbar-btn">
+                                                    <i class="ion-bag"></i>
+                                                    <span class="cart-item_count">3</span>
+                                                </a>
+                                                <div class="cart-item-wrapper dropdown-sidemenu dropdown-hover-2">
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/cai-bo-xoi.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html">Cải bó xôi</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>2×</span>
+                                                                    <span class="cart-price">60,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/viet-quat.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html" title="Blueberry">Việt quất</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>1×</span>
+                                                                    <span class="cart-price">355,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="single-cart-item">
+                                                        <div class="cart-img">
+                                                            <a href="cart.html"><img src="~/assets/images/ingredient/hanh-nhan.jpg" alt="" /></a>
+                                                        </div>
+                                                        <div class="cart-text">
+                                                            <h5 class="title">
+                                                                <a href="cart.html">Hạnh nhân</a>
+                                                            </h5>
+                                                            <div class="cart-text-btn">
+                                                                <div class="cart-qty">
+                                                                    <span>1×</span>
+                                                                    <span class="cart-price">350,000 VNĐ</span>
+                                                                </div>
+                                                                <button type="button">
+                                                                    <i class="ion-trash-b"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cart-links d-flex justify-content-center">
+                                                        <a class="obrien-button white-btn" href="cart.html">Giỏ hàng</a>
+                                                        <a class="obrien-button white-btn" href="checkout.html">Thanh toán</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="mobile-menu-btn d-lg-none">
+                                                <a class="off-canvas-btn" href="#mobileMenu">
+                                                    <i class="fa fa-bars"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <aside class="off-canvas-wrapper" id="mobileMenu">
+                <div class="off-canvas-overlay"></div>
+                <div class="off-canvas-inner-content">
+                    <div class="btn-close-off-canvas">
+                        <i class="fa fa-times"></i>
+                    </div>
+                    <!-- mobile menu start -->
+                    <div class="mobile-navigation">
+                        <!-- mobile menu navigation start -->
+                        <nav>
+                            <ul class="mobile-menu">
+                                <li class="menu-item-has-children">
+                                    <a href="#">Trang chủ</a>
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a>Các sản phẩm</a>
+                                    <ul class="dropdown">
+                                        <li><a href="/shop">Cửa hàng nguyên liệu</a></li>
+                                        <li>
+                                            <a href="meal-planner.html">Lập kế hoạch ăn uống</a>
+                                        </li>
+                                        <li>
+                                            <a href="nutrition.html">Phân tích dinh dưỡng</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Công thức nấu ăn</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="blog-grid-fullwidth.html">Blog</a></li>
+                                <li><a href="contact-us.html">Liên hệ</a></li>
+                                <li><a href="partners.html">Đối tác</a></li>
+                                <li><a href="pricing.html">Giá cả</a></li>
+                            </ul>
+                        </nav>
+                        <!-- mobile menu navigation end -->
+                    </div>
+                    <!-- mobile menu end -->
+                    <div class="header-top-settings offcanvas-curreny-lang-support">
+                        <!-- mobile menu navigation start -->
+                        <nav>
+                            <ul class="mobile-menu">
+                                <li><a href="login.html">Đăng nhập</a></li>
+                                <li><a href="Register.html">Đăng ký</a></li>
+                            </ul>
+                        </nav>
+                        <!-- mobile menu navigation end -->
+                    </div>
+                    <!-- offcanvas widget area start -->
+                    <div class="offcanvas-widget-area">
+                        <div class="top-info-wrap text-left text-black">
+                            <ul>
+                                <li>
+                                    <i class="fa fa-phone"></i>
+                                    <a href="tel:0399092221">0399-092-221</a>
+                                </li>
+                                <li>
+                                    <i class="fa fa-envelope"></i>
+                                    <a href="mailto:nduyhieu210@gmail.com">nduyhieu210@gmail.com</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="off-canvas-widget-social">
+                            <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
+                            <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                            <a title="LinkedIn" href="#"><i class="fa fa-linkedin"></i></a>
+                            <a title="YouTube" href="#"><i class="fa fa-youtube"></i></a>
+                            <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
+                        </div>
+                    </div>
+                    <!-- offcanvas widget area end -->
+                </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer-area">
+        <div class="footer-widget-area">
+            <div class="container container-default custom-area">
+                <div class="row">
+                    <!-- First Column -->
+                    <div class="col-12 col-md-4 col-lg-4 col-custom">
+                        <div class="single-footer-widget m-0">
+                            <div class="footer-logo">
+                                <a href="index.html">
+                                    <img src="~/assets/images/logo/logo.png" alt="Logo Image" />
+                                </a>
+                            </div>
+                            <p class="desc-content">
+                                Calofit - Web lên thực đơn bữa ăn dinh dưỡng
+                            </p>
+                            <div class="social-links">
+                                <ul class="d-flex">
+                                    <li>
+                                        <a class="border rounded-circle" href="#" title="Facebook">
+                                            <i class="fa fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="border rounded-circle" href="#" title="Twitter">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="border rounded-circle" href="#" title="Linkedin">
+                                            <i class="fa fa-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="border rounded-circle" href="#" title="Youtube">
+                                            <i class="fa fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="border rounded-circle" href="#" title="Vimeo">
+                                            <i class="fa fa-vimeo"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Second Column -->
+                    <div class="col-12 col-md-4 col-lg-4 col-custom text-center d-flex align-items-center justify-content-center">
+                        <div class="single-footer-widget">
+                            <h2 class="widget-title">Link</h2>
+                            <ul class="widget-list">
+                                <li><a href="blog-grid-fullwidth.html">Blog</a></li>
+                                <li><a href="recipe.html">Công thức nấu ăn</a></li>
+                                <li><a href="partners.html">Đối tác</a></li>
+                                <li><a href="pricing.html">Giá cả</a></li>
+                                <li><a href="meal-planner.html">Lập kế hoạch </a></li>
+                                <li><a href="contact-us.html">Liên hệ</a></li>
+                                <li><a href="nutrition.html">Phân tích dinh dưỡng</a></li>
+                                <li><a href="shop.html">Shop nguyên liệu</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Third Column -->
+                    <div class="col-12 col-md-4 col-lg-4 col-custom d-flex align-items-center justify-content-center">
+                        <div class="single-footer-widget">
+                            <h2 class="widget-title">Thông tin thêm:</h2>
+                            <div class="widget-body">
+                                <address>
+                                    Đại học FPT Hà Nội, Khu Công nghệ cao Hòa Lạc, Km29 Đại lộ Thăng Long, huyện
+                                    Thạch Thất, Hà
+                                    Nội<br />
+                                    Phone: 0399-092-221<br />
+                                    Email: nduyhieu210@gmail.com
+                                </address>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright-area">
+            <div class="container custom-area">
+                <div class="row">
+                    <div class="col-12 text-center col-custom">
+                        <div class="copyright-content">
+                            <p>
+                                Copyright © 2024 | Built by&nbsp;<strong>CaloFit</strong>&nbsp;
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,7 @@
+﻿namespace Menu.API.Dto.Request
+{
+    public class RecipeCategoryRequest
+    {
+        public string? CategoryName { get; set; }
+}
+}

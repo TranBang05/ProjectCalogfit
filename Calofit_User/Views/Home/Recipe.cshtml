@@ -1,0 +1,225 @@
+﻿@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<RecipeResponse>
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+	<title>CaloFit</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta name="description" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="~/assets/images/icon.ico" />
+
+	<!-- CSS
+	============================================ -->
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="~/assets/css/vendor/bootstrap.min.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="~/assets/css/vendor/font.awesome.min.css">
+	<!-- Ionicons -->
+	<link rel="stylesheet" href="~/assets/css/vendor/ionicons.min.css">
+	<!-- Slick CSS -->
+	<link rel="stylesheet" href="~/assets/css/plugins/slick.min.css">
+	<!-- Animation -->
+	<link rel="stylesheet" href="~/assets/css/plugins/animate.min.css">
+	<!-- jQuery Ui -->
+	<link rel="stylesheet" href="~/assets/css/plugins/jquery-ui.min.css">
+	<!-- Nice Select -->
+	<link rel="stylesheet" href="~/assets/css/plugins/nice-select.min.css">
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="~/assets/css/plugins/magnific-popup.css">
+
+	<!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from the above) -->
+
+	<link rel="stylesheet" href="~/assets/css/vendor/vendor.min.css">
+	<link rel="stylesheet" href="~/assets/css/plugins/plugins.min.css">
+
+	<!-- Main Style CSS (Please use minify version for better website load performance) -->
+	<link rel="stylesheet" href="~/assets/css/style.css">
+	<!-- <link rel="stylesheet" href="~/assets/css/style.min.css"> -->
+</head>
+
+<body>
+
+	<div class="shop-wrapper">
+
+
+
+		<!-- Breadcrumb Area End Here -->
+		<!-- Shop Main Area Start Here -->
+		<div class="shop-main-area">
+			<div class="container container-default custom-area">
+				<div class="row flex-row-reverse">
+					<div class="col-lg-9 col-12 col-custom widget-mt">
+						<!--shop toolbar start-->
+						<div class="shop_toolbar_wrapper">
+							Cac cong thuc nau an
+						</div>
+						
+						<div class="row shop_wrapper grid_list">
+
+
+							@foreach (var meal in Model)
+							{
+								<div class="col-12 col-custom product-area">
+									<div class="single-product position-relative">
+										<div class="product-image">
+											<a class="d-block" href="">
+												<img src="@meal.Image" alt="" class="product-image-1 w-100">
+												<img src="@meal.Image" alt="" class="product-image-2 position-absolute w-100">
+											</a>
+											<div>
+												<h3>@meal.Name</h3>
+												<a href="@Url.Action("RecipeDetail", new { id = meal.RecipeId })">View Details</a>
+											</div>
+										</div>
+										<div class="product-content">
+											<div class="product-rating">
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</div>
+											<div class="product-title">
+												<h4 class="title-2">
+													<a href="">@meal.Name</a>
+												</h4>
+											</div>
+										</div>
+										<div class="product-content-listview">
+											<div class="product-rating">
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</div>
+											<div class="product-title">
+												<h4 class="title-2">
+													<a href="">@meal.Name</a>
+												</h4>
+											</div>
+											<p class="desc-content">
+												@meal.Description
+											</p>
+										</div>
+									</div>
+								</div>
+							}
+
+
+						</div>
+						<!-- Shop Wrapper End -->
+						<!-- Bottom Toolbar Start -->
+						<div class="row">
+							<div class="col-sm-12 col-custom">
+								<div class="toolbar-bottom mt-30">
+									<nav class="pagination pagination-wrap mb-10 mb-sm-0">
+										<ul class="pagination">
+											<li class="disabled prev">
+												<i class="ion-ios-arrow-thin-left"></i>
+											</li>
+											<li class="active"><a>1</a></li>
+											<li>
+												<a href="#">2</a>
+											</li>
+											<li class="next">
+												<a href="#" title="Next >>"><i class="ion-ios-arrow-thin-right"></i></a>
+											</li>
+										</ul>
+									</nav>
+									<p class="desc-content text-center text-sm-right">Showing 1 - 12 of 34 result</p>
+								</div>
+							</div>
+						</div>
+						<!-- Bottom Toolbar End -->
+					</div>
+					<div class="col-lg-3 col-12 col-custom">
+						<!-- Sidebar Widget Start -->
+						<aside class="sidebar_widget widget-mt">
+							<div class="widget_inner">
+								<div class="widget-list widget-mb-1">
+									<h3 class="widget-title">Tìm kiếm công thức</h3>
+									<div class="search-box">
+										<div class="input-group">
+											<input type="text" class="form-control" placeholder="Tìm kiếm công thức"
+												   aria-label="">
+											<div class="input-group-append">
+												<button class="btn btn-outline-secondary" type="button">
+													<i class="fa fa-search"></i>
+												</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							
+							</div>
+						</aside>
+						<!-- Sidebar Widget End -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Shop Main Area End Here -->
+		<!-- Support Area Start Here -->
+		<div class="support-area">
+			<div class="container container-default custom-area">
+				<div class="row">
+					<div class="col-lg-12 col-custom">
+						<div class="support-wrapper d-flex">
+							<div class="support-content">
+								<h1 class="title">Gặp vấn đề?</h1>
+								<p class="desc-content">Liên hệ với chúng tôi 24/7 tại 0399-092-221</p>
+							</div>
+							<div class="support-button d-flex align-items-center">
+								<a class="obrien-button primary-btn" href="contact-us.html">Liên hệ ngay</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+		<!-- Modal Area End Here -->
+		<!-- Scroll to Top Start -->
+		<a class="scroll-to-top" href="#">
+			<i class="ion-chevron-up"></i>
+		</a>
+		<!-- Scroll to Top End -->
+		<!-- JS
+		============================================ -->
+		<!-- jQuery JS -->
+		<script src="~/assets/js/vendor/jquery-3.6.0.min.js"></script>
+		<!-- jQuery Migrate JS -->
+		<script src="~/assets/js/vendor/jquery-migrate-3.3.2.min.js"></script>
+		<!-- Modernizer JS -->
+		<script src="~/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="~/assets/js/vendor/bootstrap.bundle.min.js"></script>
+		<!-- Slick Slider JS -->
+		<script src="~/assets/js/plugins/slick.min.js"></script>
+		<!-- Countdown JS -->
+		<script src="~/assets/js/plugins/jquery.countdown.min.js"></script>
+		<!-- Ajax JS -->
+		<script src="~/assets/js/plugins/jquery.ajaxchimp.min.js"></script>
+		<!-- Jquery Nice Select JS -->
+		<script src="~/assets/js/plugins/jquery.nice-select.min.js"></script>
+		<!-- Jquery Ui JS -->
+		<script src="~/assets/js/plugins/jquery-ui.min.js"></script>
+		<!-- jquery magnific popup js -->
+		<script src="~/assets/js/plugins/jquery.magnific-popup.min.js"></script>
+
+		<!-- Main JS -->
+		<script src="~/assets/js/main.js"></script>
+
+</body>
+
+</html>

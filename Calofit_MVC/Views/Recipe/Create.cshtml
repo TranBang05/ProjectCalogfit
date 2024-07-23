@@ -1,0 +1,94 @@
+﻿@model Calofit_MVC.Models.RecipeResponse
+
+@{
+    ViewBag.Title = "Create Recipe";
+}
+
+<h2>Create Recipe</h2>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image" class="control-label"></label>
+        <input asp-for="Image" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label class="control-label">Steps</label>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="stepsTableBody">
+                <!-- Existing steps go here -->
+            </tbody>
+        </table>
+        <button type="button" class="btn btn-secondary" onclick="addStep()">Add Step</button>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Ingredients</label>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="ingredientsTableBody">
+                <!-- Existing ingredients go here -->
+            </tbody>
+        </table>
+        <button type="button" class="btn btn-secondary" onclick="addIngredient()">Add Ingredient</button>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    <script>
+        function addStep() {
+            const tableBody = document.getElementById('stepsTableBody');
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                        <td><input type="text" name="Steps[][Description]" class="form-control" /></td>
+                        <td><button type="button" class="btn btn-danger" onclick="removeRow(this)">Remove</button></td>
+                    `;
+            tableBody.appendChild(row);
+        }
+
+        function addIngredient() {
+            const tableBody = document.getElementById('ingredientsTableBody');
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                        <td><input type="text" name="Ingredients[][Name]" class="form-control" /></td>
+                        <td><button type="button" class="btn btn-danger" onclick="removeRow(this)">Remove</button></td>
+                    `;
+            tableBody.appendChild(row);
+        }
+
+        function removeRow(button) {
+            button.closest('tr').remove();
+        }
+    </script>
+}

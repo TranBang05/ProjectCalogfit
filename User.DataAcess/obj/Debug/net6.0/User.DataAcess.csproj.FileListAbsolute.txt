@@ -1,0 +1,14 @@
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\bin\Debug\net6.0\User.DataAcess.deps.json
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\bin\Debug\net6.0\User.DataAcess.runtimeconfig.json
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\bin\Debug\net6.0\User.DataAcess.dll
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\bin\Debug\net6.0\User.DataAcess.pdb
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.csproj.AssemblyReference.cache
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.AssemblyInfoInputs.cache
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.AssemblyInfo.cs
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.csproj.CoreCompileInputs.cache
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.dll
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\refint\User.DataAcess.dll
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.pdb
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\User.DataAcess.genruntimeconfig.cache
+E:\Kì 8\PRN231\CaloFit_Project\User.DataAcess\obj\Debug\net6.0\ref\User.DataAcess.dll
